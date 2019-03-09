@@ -4,7 +4,8 @@
   "description": "gulp and npm",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test --exit"
+    "test": "mocha test --exit",
+    "build": "gulp build:js && gulp build:css"
   },
   "author": "",
   "license": "ISC",
