@@ -5,7 +5,7 @@ Demonstrates Gulp tasks and auto-update.
 
 ## Download from Github
 ```
-$ git clone https://github.com/SanDiegoCodeSchool/ops100-gulp-and-npm
+$ git clone https://github.com/austene/Ops100-npm-and-gulp.git
 ```
 
 ## Run
